@@ -15,3 +15,11 @@ body {
 .d-none {
   display: none;
 }
+
+.success {
+  color: green;
+}
+
+.danger {
+  color: red;
+}
